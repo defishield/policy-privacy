@@ -1,17 +1,17 @@
-# Privacy Policy — Crypto Profit Tracker
+# Privacy Policy — ShieldTracker DeFi
 
-**Effective:** [DATE]
-**Last updated:** [DATE]
-**Publisher:** [YOUR NAME OR COMPANY]
-**Contact:** [YOUR EMAIL]
+**Effective:** 31/07/2026
+**Last updated:** 31/07/2026
+**Publisher:** ShieldTracker
+**Contact:** support@shieldtrackerdefi.com
 
-Crypto Profit Tracker does not collect, store, transmit, or sell any personal data. Every calculation runs inside your browser, on your device, and never leaves it.
+ShieldTracker DeFi does not collect, store, transmit, or sell any personal data. Every calculation runs inside your browser, on your device, and never leaves it.
 
 ---
 
 ## 1. What the extension does
 
-Crypto Profit Tracker is a calculator. You enter a buy price, a sell price, an amount held, and optional buy and sell fees. The extension multiplies and subtracts those numbers and shows you the amount invested, the amount returned, the profit or loss, and the ROI. That is its single purpose, and it does nothing outside of it.
+ShieldTracker DeFi is a calculator. You enter a buy price, a sell price, an amount held, and optional buy and sell fees. The extension multiplies and subtracts those numbers and shows you the amount invested, the amount returned, the profit or loss, and the ROI. That is its single purpose, and it does nothing outside of it.
 
 ## 2. Data we handle
 
@@ -68,4 +68,4 @@ Questions about this policy or about the extension: [YOUR EMAIL]
 
 ---
 
-*Crypto Profit Tracker is not financial advice. It performs arithmetic on numbers you supply and makes no claim about the accuracy of those numbers or about any investment decision you make.*
+*ShieldTracker DeFi is not financial advice. It performs arithmetic on numbers you supply and makes no claim about the accuracy of those numbers or about any investment decision you make.*
